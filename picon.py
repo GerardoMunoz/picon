@@ -1,5 +1,4 @@
-# código para comentar en los grupos de la clase
-# de acuerdo al patrón trabajado
+# Exercise: comment the code
 
 import serial
 import cv2,    numpy as np
