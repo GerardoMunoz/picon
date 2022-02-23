@@ -1,3 +1,3 @@
 # picon
 
-picon.py es un programa en Python para conectarse con un puerto UART
+picon.py is a Python program to use a UART port
